@@ -1,9 +1,9 @@
 
 [![Header]()](https://some-url.dev/)
 
-![Deepak Singh's github stats](https://github-readme-stats.vercel.app/api?username=deepaksing&show_icons=true&theme=gradient)
+![Deepak Singh's github stats](https://github-readme-stats.vercel.app/api?username=deepaksing&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksing&show_icons=true&theme=gradient)](https://github.com/deepaksing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksing&show_icons=true&theme=tokyonight)](https://github.com/deepaksing/github-readme-stats)
 <!--
 **deepaksing/deepaksing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
