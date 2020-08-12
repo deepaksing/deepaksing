@@ -2,6 +2,8 @@
 [![Header]()](https://some-url.dev/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deepaksing)](https://github.com/deepaksing/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=deepaksing&theme=radical" />
+
+![Deepak Singh's github stats](https://github-readme-stats.vercel.app/api?username=deepaksing&show_icons=true&theme=radical)
 <!--
 **deepaksing/deepaksing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
